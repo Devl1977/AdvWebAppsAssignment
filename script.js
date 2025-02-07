@@ -19,5 +19,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 gridContainer.appendChild(userDiv);
             });
         })
+        
         .catch(error => console.error("Error loading data:", error));
 });
