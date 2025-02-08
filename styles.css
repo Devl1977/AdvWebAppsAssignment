@@ -41,7 +41,7 @@ h1 {
 }
 
 /* trying to add for responsive (not sure if we're supposed to 
-but trying to get into the habit of remembering to do it */
+but trying to get into the habit of remembering to do it so doing it this time */
 
 @media (max-width: 800px) {
     .grid-container {
